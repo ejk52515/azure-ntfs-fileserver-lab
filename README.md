@@ -1,3 +1,5 @@
+#Loom Link: https://www.loom.com/share/abd94b84494e413b8ff4fc803fe58aea
+
 # Active Directory File Server with NTFS Permissions on Azure
 
 > An end-to-end Windows file server lab built on Microsoft Azure: infrastructure provisioned with **Terraform**, the Active Directory domain and NTFS permission model configured with **PowerShell**, and access control verified against real-world business rules.
