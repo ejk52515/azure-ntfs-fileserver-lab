@@ -1,0 +1,8 @@
+location       = "Central US"
+rdp_source     = "YOUR_PUBLIC_IP/32"
+server_vm_size = "Standard_B2as_v2"
+client_vm_size = "Standard_B2as_v2"
+
+# admin_password is NOT set here — use an environment variable:
+#   PowerShell: $env:TF_VAR_admin_password = "YourStrongPassword!"
+# Min 12 chars, upper + lower + number + symbol.
